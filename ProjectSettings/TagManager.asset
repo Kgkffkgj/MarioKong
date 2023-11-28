@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - inimigo
+  - cano
+  - parede
+  - barril
+  - barril2
+  - miojo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: ramires
+    uniqueID: 1734902579
+    locked: 0
+  - name: atrazmario
+    uniqueID: 464754163
+    locked: 0
+  - name: atrazatrazdomario
+    uniqueID: 902013705
+    locked: 0
+  - name: AQUA
+    uniqueID: 2224441083
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: frente
+    uniqueID: 2700536819
+    locked: 0
